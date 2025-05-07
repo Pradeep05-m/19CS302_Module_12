@@ -1,6 +1,6 @@
 
 # EX 56 A function to display stack elements using Linked List.(store float data in stack) .
-## DATE:
+## DATE:5/5/25
 ## AIM:
 To write a C function to display stack elements using Linked List.
 
